@@ -15,29 +15,16 @@
   <a href="https://mon_futur_site_internet" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mon_site" />
  </a>
-  -->
+
  <a href="https://www.linkedin.com/in/thibaut-menin-04a70a221/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="thibaut"/>
  </a>
- 
+ -->
 </p>
-<br />
-
-<!-- About Section -->
- # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
-
+ <img align="center" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 </p>
-
-<br/>
-
 
 ## Languages and Tools:
 
