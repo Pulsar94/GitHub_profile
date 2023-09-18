@@ -38,7 +38,4 @@
 </a>
 
 
-![Pulsar94's Graph](https://github-readme-activity-graph.vercel.app/graph?username=pulsar94&custom_title=Pulsar94's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
 Github card from : <a href="https://github.com/alsiam/alsiam"> Saif Al Siam </a> with some features of <a href="https://github.com/rahuldkjain/github-profile-readme-generator"> Rahul Jain </a>
