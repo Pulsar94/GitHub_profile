@@ -5,7 +5,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hello there 👋, I'm an engineering student at
+        <samp>&gt; Hello there 👋, I'm Thibaut Menin, an engineering student at
                 <b><a target="_blank" href="https://www.efrei.fr/">EFREI Paris - Paris-Panthéon-Assas University.</a></b>
         </samp>
 </h3>
@@ -15,11 +15,11 @@
   <a href="https://mon_futur_site_internet" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mon_site" />
  </a>
-
+-->
  <a href="https://www.linkedin.com/in/thibaut-menin-04a70a221/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="thibaut"/>
  </a>
- -->
+ 
  <img align="center" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 </p>
 
