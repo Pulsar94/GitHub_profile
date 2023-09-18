@@ -19,7 +19,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hello there 👋, I'm an engineering student at EFREI Paris - Paris-Panthéon-Assas University.
+        <samp>&gt; Hello there 👋, I'm an engineering student at
                 <b><a target="_blank" href="https://www.efrei.fr/">EFREI Paris - Paris-Panthéon-Assas University.</a></b>
         </samp>
 </h3>
