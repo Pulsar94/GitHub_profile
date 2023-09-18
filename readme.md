@@ -20,11 +20,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="thibaut"/>
  </a>
  -->
-</p>
- 
-<p>
  <img align="center" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 </p>
+
 
 ## Languages and Tools:
 
