@@ -19,7 +19,7 @@
  <a href="https://www.linkedin.com/in/thibaut-menin-04a70a221/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="thibaut"/>
  </a>
- 
+</br>
  <img align="center" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 </p>
 
