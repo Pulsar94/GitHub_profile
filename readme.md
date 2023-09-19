@@ -37,7 +37,7 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.autodesk.ca/fr/products/fusion-360/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F411434%2Fautodesk-fusion-360&psig=AOvVaw0b9_Ey0U-b3enWMpa-rVFx&ust=1695183901588000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjTgqXqtYEDFQAAAAAdAAAAABAD" alt="fusion360" width="40" height="40"/> </a> 
+  <a href="https://www.autodesk.ca/fr/products/fusion-360/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img src="/assets/fusion360" alt="fusion360" width="40" height="40"/> </a> 
 </p>
 
 <br/>
